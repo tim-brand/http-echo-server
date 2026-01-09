@@ -15,7 +15,7 @@
     "testing",
     "bun"
   ],
-  "author": "",
+  "author": "Tim Brand <t.brand@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/bun": "latest"
