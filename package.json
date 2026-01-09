@@ -1,0 +1,23 @@
+{
+  "name": "http-echo-server",
+  "version": "1.0.0",
+  "description": "A REST service that echoes back all request details for testing purposes",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "dev": "bun run --watch src/index.ts",
+    "test": "bun test"
+  },
+  "keywords": [
+    "echo",
+    "http",
+    "rest",
+    "testing",
+    "bun"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
